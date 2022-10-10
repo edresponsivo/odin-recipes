@@ -6,3 +6,7 @@ Assignment from TOP, practicing just simple html, git and github commands.
 
 Basic html structure and syntax.
 Git commands
+
+## Apply CSS
+
+Added some CSS styles to all the pages.
